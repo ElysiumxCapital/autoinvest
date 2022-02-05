@@ -1,5 +1,5 @@
-Name,Symbol
-Theta,THETA
-Solana,SOL
-Avalanche,AVAX
-Elrond,EGLD
+Name,Symbol,Geko
+Theta,THETA,theta-token
+Solana,SOL,solana
+Avalanche,AVAX,avalanche-2
+Elrond,EGLD,elrond-erd-2
